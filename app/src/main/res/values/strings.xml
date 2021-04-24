@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Webview</string>
+    <string name="retry">retry</string>
+    <string name="Exit">Exit</string>
+    <string name="checkinternet" />
+    <string name="loading" />
+    <string name="somethingwrong" />
+</resources>
